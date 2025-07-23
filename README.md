@@ -1,7 +1,3 @@
-Of course! Here is a draft for a README.md file that briefly explains your project's purpose, methods, and findings, suitable for a GitHub repository.
-
----
-
 # Analysis of Contributions to Type II Diabetes
 
 This project explores the primary factors contributing to Type II Diabetes and investigates the relationship between food prices and nutritional quality.
